@@ -1,0 +1,77 @@
+baseurl = "https://example.com"
+languageCode = "en"
+defaultContentLanguage = "en"
+title = "The Great Gatsby"
+theme = "hugo-theme-dream"
+
+# copyright = "The Great Gatsby"
+
+# googleAnalytics = ""
+
+# disqusShortname = ""
+
+# enableRobotsTXT = true
+
+[params]
+  background = "#f7f7f7"
+  backgroundImage = "img/background/back.jpg"
+  linkColor = "seagreen"
+
+  # dark mode
+  defaultDark = true
+  backgroundDark = "#2E2E2E"
+  backgroundImageDark = "img/background/dark.jpg"
+  darkLinkColor = "darkseagreen"
+  darkNav = true
+  dark404 = true
+
+  author = "The Great Gatsby"
+  # description = ""
+  avatar = "/img/avatar.jpeg"
+  headerTitle = "The Great Gatsby"
+  motto = "The Hustle Continues"
+  # maxTags = 5
+  # categoriesLimitInHeader = 6 # deprecated
+  # headerBottomText = "" # deprecated
+
+  # footerBottomText = ""
+
+  # rss = true
+
+  # utterancesRepo = ""
+
+  email = "#"
+  twitter = "#"
+  facebook = "#"
+  instagram = "#"
+  whatsapp = "#"
+  # linkedin = ""
+
+  siteStartYear = 2022
+
+  favicon = "/img/avatar.jpeg"
+
+  #highlightjs = true
+  #highlightjsCDN = "https://cdn.jsdelivr.net/gh/highlightjs/cdn-release/build/highlight.min.js"
+  #highlightjsExtraLanguages = ["ocaml"]
+  #ighlightjsTheme = "gruvbox-light"
+  #highlightjsThemeDark = "gruvbox-dark"
+
+
+  # options
+  # showSummaryCoverInPost = true
+  # hasTwitterEmbed = true
+  # reversePostAndAside = true
+  # shareInAside = true
+  # fixedNav = true
+  # collapsibleTags = true
+  # collapseBySummary = true
+
+  # [params.advanced]
+  #   customCSS = ["css/custom.css"]
+  #   customJSBefore = []
+  #   customJS = []
+
+  # [params.experimental]
+  #   jsDate = true
+  #   jsDateFormat = "yyyy年MM月dd日"

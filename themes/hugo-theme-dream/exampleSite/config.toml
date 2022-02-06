@@ -1,0 +1,84 @@
+baseurl = "https://example.com"
+languageCode = "en"
+defaultContentLanguage = "en"
+title = "The Great Gatsby"
+theme = "hugo-theme-dream"
+
+# copyright = "The Great Gatsby"
+
+# googleAnalytics = ""
+
+# disqusShortname = ""
+
+# enableRobotsTXT = true
+
+[params]
+  background = "#f7f7f7"
+  # backgroundImage = "/me/background.jpg"
+  linkColor = "seagreen"
+
+  # dark mode
+  defaultDark = true
+  backgroundDark = "black"
+  backgroundImageDark = "/me/background-dark.jpg"
+  darkLinkColor = "darkseagreen"
+  darkNav = true
+  dark404 = true
+
+  author = "The Great Gatsby"
+  # description = ""
+  avatar = "/img/avatar.jpeg"
+  headerTitle = "The Great Gatsby"
+  motto = "The Hustle Continues"
+  # maxTags = 5
+  # categoriesLimitInHeader = 6 # deprecated
+  # headerBottomText = "" # deprecated
+
+  # footerBottomText = ""
+
+  # rss = true
+
+  # utterancesRepo = ""
+
+  # valine = true
+  # LEANCLOUD_APP_ID = ""
+  # LEANCLOUD_APP_KEY = ""
+  # VALINE_LANGUAGE = ""
+
+  email = "#"
+  # twitter = ""
+  # facebook = ""
+  # instagram = ""
+  # mastodon = ""
+  # linkedin = ""
+
+  siteStartYear = 2016
+
+  # favicon = "/favicon.ico"
+
+  # highlightjs = true
+  # highlightjsCDN = "https://cdn.jsdelivr.net/gh/highlightjs/cdn-release/build/highlight.min.js"
+  # highlightjsExtraLanguages = ["ocaml"]
+  # highlightjsTheme = "gruvbox-light"
+  # highlightjsThemeDark = "gruvbox-dark"
+
+  # search
+  # enableSearch = true
+
+  # options
+  # showSummaryCoverInPost = true
+  # hasTwitterEmbed = true
+  # reversePostAndAside = true
+  # shareInAside = true
+  # fixedNav = true
+  # collapsibleTags = true
+  # collapseBySummary = true
+
+  # [params.advanced]
+  #   customCSS = ["css/custom.css"]
+  #   customJSBefore = []
+  #   customJS = []
+
+  # [params.experimental]
+  #   jsDate = true
+  #   jsDateFormat = "yyyy年MM月dd日"
